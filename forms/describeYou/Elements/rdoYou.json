@@ -20,7 +20,7 @@
   "footer": "",
   "header": "Pick the option that best describes you",
   "headerCols": 2,
-  "height": 95,
+  "height": 162,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
@@ -28,7 +28,7 @@
   "inline": "",
   "inputmode": "",
   "items": "Optimistic\nPessimistic\nTrusting\nEnvious",
-  "left": 69,
+  "left": 31,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -65,9 +65,9 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 75,
+  "top": 39,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "200"
+  "width": 253
 }
