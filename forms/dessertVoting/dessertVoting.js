@@ -1,5 +1,5 @@
 var dessertList = ['Chocolate Cake','Cream Brulee','Cheesecake',
-                  'Keyline Pie','Cherry Cobbler','Chocolate Chip Cookies']
+                  'Keylime Pie','Cherry Cobbler','Chocolate Chip Cookies']
 
 dessertVoting.onshow=function(){
     drpDesserts.clear()   

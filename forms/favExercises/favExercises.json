@@ -27,6 +27,24 @@
         "Elements",
         "btnSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "lblExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnForm3.json"
+      ]
     }
   ],
   "class": "",

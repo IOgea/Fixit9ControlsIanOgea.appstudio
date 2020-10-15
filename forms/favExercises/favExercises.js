@@ -18,5 +18,14 @@ selExercises.onfocusout=function(){
 
 
 btnSubmit.onclick=function(){
+  if (selExercises.text[0]=="situps" && selExercises.text[1]=="plank"){
+  lblExercises.value = `You chose ${selExercises.text[0]} and ${selExercises.text[1]} - those are the two core exercises.` 
+  }
+else { lblExercises.value = "You did not pick the two core exercises"
+  }
   
+}
+
+btnForm3.onclick=function(){
+  ChangeForm(mobileNav)
 }
